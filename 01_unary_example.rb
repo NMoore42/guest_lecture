@@ -16,7 +16,8 @@ class Dog
 
 end
 
-dog_one = Dog.new({name: "Fido"})
+dog_one = Dog.new({})
+dog_two = Dog.new(name: "Lassie")
 
 binding.pry
 0

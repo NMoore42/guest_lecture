@@ -11,13 +11,15 @@ class Bagel
   end
 
   def bagel_type
+    #return appropriate response if bagel is an everything bagel
     is_everything_bagel = self.salt && self.garlic && self.poppy_seed && !self.blueberries
-    is_everything_bagel ? "An everything bagel! Good Choice!" : "Not sure what you call this, but it's not an everything bagel"
+    is_everything_bagel ? "An everything bagel! Good choice!" : "Not sure what you call this"
   end
 
 end
 
 bagel_one = Bagel.new(salt: true, garlic: true, poppy_seed: true, blueberries: false)
+bagel_two = Bagel.new(salt: true, garlic: true, poppy_seed: true, blueberries: true)
 
 binding.pry
 0

@@ -10,15 +10,16 @@ class Student
 
   def student_status
     if self.present && self.prepared
-      "Your child is a exemplory student!"
+      "Your child is an exemplory student!"
     else
-      "We're going to need to have a conversation regarding your child..."
+      "We're going to need to schedule some time to talk..."
     end
   end
 
 end
 
 student_one = Student.new(present: true, prepared: true)
+student_two = Student.new(present: true, prepared: false)
 
 binding.pry
 0

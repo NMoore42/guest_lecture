@@ -2,37 +2,37 @@
 
 ## Meta Assumptions
 
-* Students have a basic understanding of ruby syntax
+* Students have an understanding of ruby syntax
 * Students are familiar with basic ruby OO concepts (variables, methods, classes)
 * Students are familiar with both me and my role
 
 ## SWBATs
 
-* Define the terms operator, operand, and arity
-* List the three basic types of operators and give examples of each
-* Demonstrate how different operator types can be utilized
+[ ] Define the terms operator, operand, and arity
+[ ] List the three basic types of operators and give examples of each
+[ ] Demonstrate how different operator types can be utilized
 
 
 ## Terminology
 
-* Operator - A function that acts on elements of a space to produce elements of another space
-* Operand - The value on which the operation is being performed
+* Operator - Function that acts on elements of a space to produce elements of another space
+* Operand - The value on which an operation if being performed
 * Arity - The number of operands an operator acts on
 
 
 ## Operator Types
 
 What are the three types of operators in Ruby?
-* Unary (infront of operand)
+* Unary
   - -
   - +
   - !
-* Binary (between operands)
-  - +, -, *, /
+* Binary
+  - +, -, *, /, %...
   - ==
   - ||
   - &&
-  - =, +=, -=, *=, /=, ||=
+  - =, +=, -=, /=, ||=
 * Ternary
   - ?:
 
