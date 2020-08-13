@@ -13,7 +13,7 @@ class Bagel
   def bagel_type
     #return appropriate response if bagel is an everything bagel
     is_everything_bagel = self.salt && self.garlic && self.poppy_seed && !self.blueberries
-    is_everything_bagel ? "An everything bagel! Good choice!" : "Not sure what you call this"
+    is_everything_bagel ? "An everything bagel! Good choice!" : "Not sure what you call this."
   end
 
 end

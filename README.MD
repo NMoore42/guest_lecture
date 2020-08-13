@@ -8,9 +8,9 @@
 
 ## SWBATs
 
-[ ] Define the terms operator, operand, and arity
-[ ] List the three basic types of operators and give examples of each
-[ ] Demonstrate how different operator types can be utilized
+[x] Define the terms operator, operand, and arity
+[x] List the three basic types of operators and give examples of each
+[x] Demonstrate how different operator types can be utilized
 
 
 ## Terminology
@@ -28,11 +28,11 @@ What are the three types of operators in Ruby?
   - +
   - !
 * Binary
-  - +, -, *, /, %...
+  - +, -, * , /, %, ect..
   - ==
   - ||
   - &&
-  - =, +=, -=, /=, ||=
+  - =, +=, -=, /=, ||=, ect..
 * Ternary
   - ?:
 

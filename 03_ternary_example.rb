@@ -8,11 +8,7 @@ class PizzaOrder
   end
 
   def order_up
-    self.vegetarian
-    ?
-    "No animals were harmed in the making of your pizza"
-    :
-    "Here's your meat lover you filthy animal!"
+    self.vegetarian ? "What a peaceful pie..." : "Here's your meat lover you filthy animal!"
   end
 
 end

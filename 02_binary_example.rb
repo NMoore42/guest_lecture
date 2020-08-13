@@ -10,7 +10,7 @@ class Student
 
   def student_status
     if self.present && self.prepared
-      "Your child is an exemplory student!"
+      "Your child is an exemplary student!"
     else
       "We're going to need to schedule some time to talk..."
     end
