@@ -33,7 +33,7 @@ What are the three types of operators in Ruby?
   -
   -
   -
-* 
+*
   -
 
 ## Resources
