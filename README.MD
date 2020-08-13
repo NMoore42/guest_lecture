@@ -15,26 +15,26 @@
 
 ## Terminology
 
-* Operator - Function that acts on elements of a space to produce elements of another space
-* Operand - The value on which an operation if being performed
-* Arity - The number of operands an operator acts on
+* Operator -
+* Operand -
+* Arity -
 
 
 ## Operator Types
 
 What are the three types of operators in Ruby?
-* Unary
-  - -
-  - +
-  - !
-* Binary
-  - +, -, *, /, %...
-  - ==
-  - ||
-  - &&
-  - =, +=, -=, /=, ||=
-* Ternary
-  - ?:
+*
+  -
+  -
+  -
+*
+  -
+  -
+  -
+  -
+  -
+* 
+  -
 
 ## Resources
 

@@ -8,11 +8,7 @@ class PizzaOrder
   end
 
   def order_up
-    self.vegetarian
-    ?
-    "No animals were harmed in the making of your pizza"
-    :
-    "Here's your meat lover you filthy animal!"
+    #Returns appropriate response based on if pizza is vegetarian
   end
 
 end

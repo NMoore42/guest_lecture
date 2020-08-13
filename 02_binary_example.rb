@@ -9,11 +9,8 @@ class Student
   end
 
   def student_status
-    if self.present && self.prepared
-      "Your child is an exemplory student!"
-    else
-      "We're going to need to schedule some time to talk..."
-    end
+    #If student is present and prepared, returns encouraging message
+    #Else returns message asking to talk about student's performance
   end
 
 end
