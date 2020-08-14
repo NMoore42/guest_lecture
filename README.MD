@@ -2,7 +2,7 @@
 
 ## Meta Assumptions
 
-* Your are both are playing the role of the students.
+* Your are playing the role of the students
 * Students have an understanding of ruby syntax
 * Students are familiar with basic ruby OO concepts (variables, methods, classes)
 * Students are familiar with both me and my role
