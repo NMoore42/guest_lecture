@@ -8,7 +8,7 @@ class PizzaOrder
   end
 
   def order_up
-    #Returns appropriate response based on if pizza is vegetarian
+    self.vegetarian ? "What a peaceful pie..." : "Here's your meat lovers ya filthy animal!"
   end
 
 end

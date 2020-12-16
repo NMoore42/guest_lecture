@@ -1,11 +1,4 @@
-# Guest Lecture (Operators)
-
-## Meta Assumptions
-
-* Your are playing the role of the students
-* Students have an understanding of ruby syntax
-* Students are familiar with basic ruby OO concepts (variables, methods, classes)
-* Students are familiar with both me and my role
+# SMOOTH OPERATORS LECTURE
 
 ## SWBATs
 
@@ -16,26 +9,26 @@
 
 ## Terminology
 
-* Operator -
-* Operand -
-* Arity -
+* Operator - A function that acts on elements of a space to produce elements of another space
+* Operand - The value on which an operation is being performed
+* Arity - The number of operands an operator acts on
 
 
 ## Operator Types
 
 What are the three types of operators in Ruby?
-*
-  -
-  -
-  -
-*
-  -
-  -
-  -
-  -
-  -
-*
-  -
+* Unary
+  - +
+  - -
+  - !
+* Binary
+  - +, -, *, /, %, ect..
+  - ==
+  - ||
+  - &&
+  - =, +=, -=, *=, /=, ||=, ect...
+* Ternary
+  - ?:
 
 ## Resources
 

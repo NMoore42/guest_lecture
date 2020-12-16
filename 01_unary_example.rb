@@ -8,8 +8,10 @@ class Dog
   end
 
   def adopt
-    #Returns adoption message with dog name.
-    #If dog does not have a name, sets default to spot.
+    if !self.name
+      self.name = "Spot"
+    end
+    "Your new dog's name is #{self.name}"
   end
 
 end
